@@ -153,6 +153,59 @@ Skill: "Pro Gamer & Tech Enthusiast"
 
 <div align="center">
 
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35"> **Proyectos Destacados**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,12,20,6,11&height=3&section=header"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 **Emulación Web**
+<a href="https://github.com/TrueZamba/TrueZamba.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueZamba&repo=TrueZamba.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+</a>
+
+**🚀 Características:**
+- 🕹️ Emuladores web integrados
+- 🎯 Interfaz moderna y responsive  
+- ⚡ Rendimiento optimizado
+- 🎨 Diseño retro-futurista
+
+</td>
+<td width="50%" valign="top">
+
+### 🕹️ **Emulación de Consolas**
+<a href="https://github.com/TrueZamba/Emulacion">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueZamba&repo=Emulacion&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+</a>
+
+**🎯 Incluye:**
+- 🎮 Múltiples sistemas soportados
+- 📱 Configuraciones optimizadas
+- 🔧 Scripts de automatización
+- 📚 Documentación completa
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌟 **¡Explora la nostalgia gaming con tecnología moderna!**
+
+<img src="https://img.shields.io/badge/Retro%20Gaming-FF6B35?style=for-the-badge&logo=gameandwatch&logoColor=white&labelColor=FF6B35"/>
+<img src="https://img.shields.io/badge/Web%20Emulation-00D9FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=00D9FF"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Roadmap 2025**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6,17,11&height=3&section=header"/>
