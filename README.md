@@ -132,11 +132,11 @@
 Platform: PC Master Race 🖥️
 Genres: 
   - 🎯 FPS (Counter-Strike, Valorant)
-  - 🐉 RPG (Skyrim, Witcher)
+  - 🐉 RPG (Final Fantasy, Witcher)
   - ⚔️ Strategy (Age of Empires)
   - 🏗️ Sandbox (Minecraft, Terraria)
 
-Current: "Actualmente dominando [Tu juego]"
+Current: "Actualmente dominando Balatro"
 Skill: "Pro Gamer & Tech Enthusiast"
 ```
 
@@ -159,38 +159,20 @@ Skill: "Pro Gamer & Tech Enthusiast"
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎮 **Emulación Web**
+### 🎮 **Emulación Web - Proyecto Destacado**
 <a href="https://github.com/TrueZamba/TrueZamba.github.io">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueZamba&repo=TrueZamba.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
 </a>
 
-**🚀 Características:**
-- 🕹️ Emuladores web integrados
-- 🎯 Interfaz moderna y responsive  
-- ⚡ Rendimiento optimizado
-- 🎨 Diseño retro-futurista
+**🚀 Características principales:**
+- 🕹️ Emuladores web integrados y funcionales
+- 🎯 Interfaz moderna y completamente responsive  
+- ⚡ Rendimiento optimizado para gaming fluido
+- 🎨 Diseño retro-futurista que combina nostalgia y modernidad
 
-</td>
-<td width="50%" valign="top">
-
-### 🕹️ **Emulación de Consolas**
-<a href="https://github.com/TrueZamba/Emulacion">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TrueZamba&repo=Emulacion&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-</a>
-
-**🎯 Incluye:**
-- 🎮 Múltiples sistemas soportados
-- 📱 Configuraciones optimizadas
-- 🔧 Scripts de automatización
-- 📚 Documentación completa
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
@@ -214,12 +196,12 @@ Skill: "Pro Gamer & Tech Enthusiast"
 
 | Objetivo | Status | Fecha Límite |
 |----------|--------|--------------|
-| 🎓 Completar ASIR 1º con excelencia | 🔄 En progreso | Jun 2025 |
-| 📜 Certificación CompTIA Network+ | 📋 Planificado | Sept 2025 |
-| 🐧 Linux Advanced Administration | 🔄 Estudiando | Dic 2025 |
-| ☁️ AWS Cloud Practitioner | 📋 Próximamente | 2025 |
-| 🤝 Contribuir a 5 proyectos Open Source | 📋 Iniciando | 2025 |
-| 📚 Crear canal educativo tech | 💭 Conceptualización | 2025 |
+| 🎓 Completar ASIR 1º con excelencia | 🔄 En progreso | Jun 2026 |
+| 📜 Certificación CompTIA Network+ | 📋 Planificado | Sept 2026 |
+| 🐧 Linux Advanced Administration | 🔄 Estudiando | Dic 2026 |
+| ☁️ AWS Cloud Practitioner | 📋 Próximamente | 2026 |
+| 🤝 Contribuir a 5 proyectos Open Source | 📋 Iniciando | 2026 |
+| 📚 Crear canal educativo tech | 💭 Conceptualización | 2026 |
 
 ---
 
