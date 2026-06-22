@@ -123,29 +123,6 @@
 ```
 
 </td>
-<td width="50%" valign="top">
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Gaming Universe**
-
-### 🎮 **Mi Setup**
-```yaml
-Platform: PC Master Race 🖥️
-Genres: 
-  - 🎯 FPS (Counter-Strike, Valorant)
-  - 🐉 RPG (Final Fantasy, Witcher)
-  - ⚔️ Strategy (Age of Empires)
-  - 🏗️ Sandbox (Minecraft, Terraria)
-
-Current: "Actualmente dominando Balatro"
-Skill: "Pro Gamer & Tech Enthusiast"
-```
-
-### 🏆 **Gaming Stats**
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
-
-</td>
 </tr>
 </table>
 
